@@ -1,0 +1,15 @@
+Running enron_gender data set
+Best Accuracy : 0.7298
+{'vocab_size': 4922, 'num_filters': 32, 'maxlen': 100, 'kernel_size': 7, 'embedding_dim': 50}
+Test Accuracy : 0.7013
+
+Running enron_sentiment data set
+Best Accuracy : 0.7302
+{'vocab_size': 4922, 'num_filters': 64, 'maxlen': 100, 'kernel_size': 3, 'embedding_dim': 50}
+Test Accuracy : 0.7253
+
+Running enron_stock data set
+Best Accuracy : 0.7333
+{'vocab_size': 4922, 'num_filters': 64, 'maxlen': 100, 'kernel_size': 5, 'embedding_dim': 50}
+Test Accuracy : 0.6960
+
